@@ -1,0 +1,5 @@
+WebSecurityConfigurerAdapter类是什么？
+EnableGlobalMethodSecurity注解
+HttpSecurity
+AuthenticationManagerBuilder类
+AbstractHttpConfigurer 
